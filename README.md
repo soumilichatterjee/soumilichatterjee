@@ -39,7 +39,7 @@
 <hr>
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=soumilichatterjee&theme=nightowl&hide_border=true" width = 399>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=soumilichatterjee&theme=dark&hide_border=true" width = 399>
 </p>
 
 <br>
